@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.14/18105
 // Filename: Meadowbank Skin Try this.ggsk
-// Generated 2022-04-01T17:17:15
+// Generated 2022-04-02T00:04:31
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, false);
