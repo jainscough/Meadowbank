@@ -1,320 +1,310 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour apprev="18105" start="node17" appversion="6.1.14">
+<tour start="node17" appversion="6.1.14" apprev="18105">
   <panorama id="node17">
-    <input cylinder="1" leveltilesize="510" flat="1" levelbias="0.400" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="5272" overlap="1" levelbiashidpi="1.000" height="3948">
-      <level predecode="0" preload="0" width="5272" height="3948"/>
-      <level predecode="0" preload="0" width="2636" height="1974"/>
-      <level predecode="0" preload="0" width="1318" height="987"/>
-      <level predecode="0" preload="0" width="659" height="493"/>
-      <level predecode="1" preload="1" width="329" height="246"/>
+    <input leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="5272" levelingroll="0" flat="1" height="3948" cylinder="1" overlap="1" levelingpitch="0">
+      <level width="5272" preload="0" height="3948" predecode="0"/>
+      <level width="2636" preload="0" height="1974" predecode="0"/>
+      <level width="1318" preload="0" height="987" predecode="0"/>
+      <level width="659" preload="0" height="493" predecode="0"/>
+      <level width="329" preload="1" height="246" predecode="1"/>
       <preview color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" pan="11.37" tilt="-9.94" fov="37.11"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <start pan="6.69" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
       <min pan="-60.17" tilt="-50" fov="5"/>
-      <max scaletofit="1" pan="60.17" tilt="50" fov="120" fovstereographic="270" fovfisheye="360"/>
+      <max pan="60.17" fovstereographic="270" tilt="50" scaletofit="1" fovfisheye="360" fov="120"/>
     </view>
-    <userdata heading="0" author="Connor O'Shea" latitude="-33.811859" title="School Entrance" customnodeid="" tags="Aerial options" altitude="-10.59" copyright="Connor O'Shea" comment="" datetime="15/03/2022 3:18 PM" source="" info="" description="" nodeid="node17" longitude="151.090967"/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" width="180" border="1" enabled="1" height="20" background="1" bordercolor="0x000000"/>
-      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot pan="3.37" skinid="ht_video_youtube" tilt="-11.7" url="Z3D3sT24hVQ" title="Welcome to Meadowbank Public School" id="Point02" target="" description=""/>
-      <hotspot pan="-31.04" skinid="ht_video_youtube" tilt="1.97" url="mO6fUubZBlk" title="Welcome to Marsden High School" id="Point03" target="" description=""/>
-      <hotspot pan="24.44" skinid="ht_info" tilt="-24.72" url="" title="Kiss and drop facilities" id="Point01" target="" description="Taking public transport? Find up-to-date transport information here&#xa;Walking from major public transport hubs:&#xa;4 min walk from Meadowbank Station, Constitution Road&#xa;5 min walk from Bowden Street bus stops&#xa;11 min walk from West Ryde Station.&#xa;We encourage all parents and students to check timetables and routes when using public&#xa;transport, as times may vary.&#xa;Taking public transport? Find up-to-date transport information here&#xa;Walking from major public transport hubs:&#xa;4 min walk from Meadowbank Station, Constitution Road&#xa;5 min walk from Bowden Street bus stops&#xa;11 min walk from West Ryde Station.&#xa;We encourage all parents and students to check timetables and routes when using public&#xa;transport, as times may vary.Taking public transport? Find up-to-date transport information here&#xa;Walking from major public transport hubs:&#xa;4 min walk from Meadowbank Station, Constitution Road&#xa;5 min walk from Bowden Street bus stops&#xa;11 min walk from West Ryde Station.&#xa;We encourage all parents and students to check timetables and routes when using public&#xa;transport, as times may vary."/>
-      <hotspot pan="23.23" skinid="ht_info" tilt="8.79" url="https://transportnsw.info/routes/train" title="Taking public transport? " id="Point04" target="" description="Find up-to-date transport information here: &#xa;&#xa;Walking from major public transport hubs: &#xa;4 min walk from Meadowbank Station, Constitution Road 5 min walk from Bowden Street bus stops &#xa;11 min walk from West Ryde Station. &#xa;&#xa;We encourage all parents and students to check &lt;a href=&quot;https://transportnsw.info/routes/train&quot;>timetables and routes&lt;/a> when using public transport, as times may vary."/>
+    <userdata latitude="-33.811859" customnodeid="" description="" nodeid="node17" altitude="-10.59" comment="" author="Connor O'Shea" copyright="Connor O'Shea" longitude="151.090967" source="" title="Meadowbank Education Precinct" info="" heading="0" datetime="15/03/2022 3:18 PM" tags="Aerial options"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" width="180" backgroundalpha="1" textalpha="1" background="1" height="20" textcolor="0x000000" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="5.39" skinid="ht_video_youtube" description="" id="Point02" url="Z3D3sT24hVQ" tilt="-1.45" title="Welcome to Meadowbank Public School" target=""/>
+      <hotspot pan="-20.34" skinid="ht_video_youtube" description="" id="Point03" url="mO6fUubZBlk" tilt="8.73" title="Welcome to Marsden High School" target=""/>
+      <hotspot pan="14.41" skinid="ht_info" description="The Kiss and Drop zone is located along Rhodes Street starting from Hermitage Road. Drivers can stop for 2 minutes and must remain within 3 metres of their vehicle." id="Point01" url="" tilt="16.09" title="Kiss and drop facilities" target=""/>
+      <hotspot pan="15.01" skinid="ht_info" description="Find up-to-date transport information here: &#xa;&#xa;Walking from major public transport hubs: &#xa;4 min walk from Meadowbank Station, Constitution Road 5 min walk from Bowden Street bus stops &#xa;11 min walk from West Ryde Station. &#xa;&#xa;We encourage all parents and students to check &lt;a href=&quot;https://transportnsw.info/routes/train&quot;  target=&quot;_blank&quot;>timetables and routes&lt;/a> when using public transport, as times may vary.&#xa;" id="Point04" url="https://transportnsw.info/routes/train" tilt="4.28" title="Taking public transport? " target=""/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" zoomout="2" blendcolor="0x000000" zoomoutpause="0" blendtime="1" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" enabled="1"/>
-    <autorotate startloaded="0" noderandom="1" delay="5.00" nodedelay="0.00" useanimation="0" speed="0.030" nodefilter="" returntohorizon="0.100" enabled="1"/>
+    <transition softedge="0" zoomoutpause="0" blendcolor="0x000000" blendtime="1" zoomfov="20" zoomspeed="2" enabled="1" type="crossdissolve" zoomafteroutfov="20" zoomin="2" zoomout="2" zoomafterinfov="90"/>
     <flyintransition speed="2.00" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
-    <control hideabout="0" invertwheel="0" lockedmouse="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0" contextprojections="0" rubberband="0" contextvr="1" lockedwheel="0" speedwheel="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" hideabout="0"/>
   </panorama>
   <panorama id="node13">
-    <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="3821" overlap="1" levelbiashidpi="1.000" height="3821">
-      <level predecode="0" preload="0" width="3821" height="3821"/>
-      <level predecode="0" preload="0" width="1910" height="1910"/>
-      <level predecode="0" preload="0" width="955" height="955"/>
-      <level predecode="1" preload="1" width="477" height="477"/>
+    <input leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="3821" levelingroll="0" height="3821" overlap="1" levelingpitch="0">
+      <level width="3821" preload="0" height="3821" predecode="0"/>
+      <level width="1910" preload="0" height="1910" predecode="0"/>
+      <level width="955" preload="0" height="955" predecode="0"/>
+      <level width="477" preload="1" height="477" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" pan="1.95" tilt="8.12" fov="70"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+      <start pan="1.95" tilt="8.12" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" fov="120"/>
     </view>
-    <userdata heading="0" author="" latitude="" title="Primary School Office" customnodeid="" tags="Edited" copyright="" comment="" datetime="22/03/2022 10:22 AM" source="" info="" description="" nodeid="node13" longitude=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" width="180" border="1" enabled="1" height="20" background="1" bordercolor="0x000000"/>
-      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-28.64" skinid="ht_info" tilt="-2.1" url="" title="OSHC" id="Point01" target="" description="Our OSHC facility is built to offer engaging activities that inspire little ones to explore, create and grow. Meadowbank Public School has partnered with TheirCare to provide quality care for children when their parents have commitments out of school hours. Before and after school care operation times run from 7 am to 8:45 am and 2:45 pm to 6 pm respectively. Visit theircare.com.au for information or to register."/>
-      <hotspot pan="-243.99" skinid="ht_image" tilt="-6.86" url="images/ifb220322_7830_small.jpg" title="" id="Point03" target="" description=""/>
-      <hotspot pan="-150.78" skinid="ht_image" tilt="8.49" url="images/Balarinji_JasmineSeymore_Mural_2022_credit_JacquieManning-46_small.jpg" title="" id="Point02" target="" description=""/>
+    <userdata latitude="" customnodeid="" description="" nodeid="node13" comment="" author="" copyright="" longitude="" source="" title="Primary School Office" info="" heading="0" datetime="22/03/2022 10:22 AM" tags="Edited"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" width="180" backgroundalpha="1" textalpha="1" background="1" height="20" textcolor="0x000000" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-28.64" skinid="ht_info" description="Our OSHC facility is built to offer engaging activities that inspire little ones to explore, create and grow. Meadowbank Public School has partnered with TheirCare to provide quality care for children when their parents have commitments out of school hours. Before and after school care operation times run from 7 am to 8:45 am and 2:45 pm to 6 pm respectively. Visit theircare.com.au for information or to register." id="Point01" url="" tilt="-2.1" title="OSHC" target=""/>
+      <hotspot pan="-243.99" skinid="ht_image" description="" id="Point03" url="images/ifb220322_7830_small.jpg" tilt="-6.86" title="" target=""/>
+      <hotspot pan="-133.57" skinid="ht_image" description="" id="Point02" url="images/Balarinji_JasmineSeymore_Mural_2022_credit_JacquieManning-46_small.jpg" tilt="7.52" title="" target=""/>
+      <hotspot pan="-173.92" skinid="Hotspot 1" description="" id="Point04" url="{node10}" tilt="-5.57" title="" target=""/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" zoomout="2" blendcolor="0x000000" zoomoutpause="0" blendtime="1" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" enabled="1"/>
-    <autorotate startloaded="0" noderandom="1" delay="5.00" nodedelay="0.00" useanimation="0" speed="0.030" nodefilter="" returntohorizon="0.100" enabled="1"/>
+    <transition softedge="0" zoomoutpause="0" blendcolor="0x000000" blendtime="1" zoomfov="20" zoomspeed="2" enabled="1" type="crossdissolve" zoomafteroutfov="20" zoomin="2" zoomout="2" zoomafterinfov="90"/>
     <flyintransition speed="2.00" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
-    <control hideabout="0" invertwheel="0" lockedmouse="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0" contextprojections="0" rubberband="0" contextvr="1" lockedwheel="0" speedwheel="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" hideabout="0"/>
   </panorama>
   <panorama id="node10">
-    <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="3809" overlap="1" levelbiashidpi="1.000" height="3809">
-      <level predecode="0" preload="0" width="3809" height="3809"/>
-      <level predecode="0" preload="0" width="1904" height="1904"/>
-      <level predecode="0" preload="0" width="952" height="952"/>
-      <level predecode="1" preload="1" width="476" height="476"/>
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="3809" levelingroll="0" height="3809" overlap="1" levelingpitch="0">
+      <level width="3809" preload="0" height="3809" predecode="0"/>
+      <level width="1904" preload="0" height="1904" predecode="0"/>
+      <level width="952" preload="0" height="952" predecode="0"/>
+      <level width="476" preload="1" height="476" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" pan="59.93" tilt="7.06" fov="70"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+      <start pan="59.93" tilt="7.06" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" fov="120"/>
     </view>
-    <userdata heading="0" author="" latitude="" title="Central Spine (Primary)" customnodeid="" tags="Edited" copyright="" comment="" datetime="22/03/2022 8:26 AM" source="" info="" description="" nodeid="node10" longitude=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" width="180" border="1" enabled="1" height="20" background="1" bordercolor="0x000000"/>
-      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-268.28" skinid="ht_video_youtube" tilt="5.63" url="P_QfMIGGnlQ" title="Meadowbank Public School" id="Point01" target="" description="Our school is designed to nurture student positivity. Our rooms come equipped with plenty of openable windows, which allow in natural light and offer nature views. There's even a slide down the stairs to the playground!"/>
-      <hotspot pan="-101.4" skinid="Hotspot 1" tilt="-18.13" url="{node18}" title="" id="Point03" target="100.6/-6.3/74.9" description=""/>
-      <hotspot pan="-330.74" skinid="ht_info" tilt="3.3" url="" title="Primary School room" id="Point02" target="" description="Our school is designed to nurture student positivity. Our rooms come equipped with plenty of openable windows, which allow in natural light and offer nature views. There's even a slide down the stairs to the playground!"/>
+    <userdata latitude="" customnodeid="" description="" nodeid="node10" comment="" author="" copyright="" longitude="" source="" title="Central Spine - Primary School" info="" heading="0" datetime="22/03/2022 8:26 AM" tags="Edited"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" width="180" backgroundalpha="1" textalpha="1" background="1" height="20" textcolor="0x000000" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-334.47" skinid="ht_video_youtube" description="Our school is designed to nurture student positivity. Our rooms come equipped with plenty of openable windows, which allow in natural light and offer nature views. There's even a slide down the stairs to the playground!" id="Point01" url="P_QfMIGGnlQ" tilt="2.23" title="Meadowbank Public School" target=""/>
+      <hotspot pan="-63.57" skinid="ht_info" description="Our school is designed to nurture student positivity. Our rooms come equipped with plenty of openable windows, which allow in natural light and offer nature views. There's even a slide down the stairs to the playground!" id="Point02" url="" tilt="-0.26" title="Primary School room" target=""/>
+      <hotspot pan="-264" skinid="Hotspot 1" description="" id="Point04" url="{node8}" tilt="-9.73" title="" target=""/>
+      <hotspot pan="-315.03" skinid="ht_info" description="Zodiac constellations can be found in the north and south of the school's covered outdoor learning areas and are a great feature for curious minds.&#xa;&#xa;The 3 stars on the floor in one area are a Djulpan dreaming story from the Yolnu people, representing 3 brothers across the centre of the canoe, and Orion Nebula is the fish pulling in its line in the water. &#xa;&#xa;Another area represents the constellation of Leo - latin for lion." id="Point03" url="" tilt="38.26" title="COLAs" target=""/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" zoomout="2" blendcolor="0x000000" zoomoutpause="0" blendtime="1" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" enabled="1"/>
-    <autorotate startloaded="0" noderandom="1" delay="5.00" nodedelay="0.00" useanimation="0" speed="0.030" nodefilter="" returntohorizon="0.100" enabled="1"/>
+    <transition softedge="0" zoomoutpause="0" blendcolor="0x000000" blendtime="1" zoomfov="20" zoomspeed="2" enabled="1" type="crossdissolve" zoomafteroutfov="20" zoomin="2" zoomout="2" zoomafterinfov="90"/>
     <flyintransition speed="2.00" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
-    <control hideabout="0" invertwheel="0" lockedmouse="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0" contextprojections="0" rubberband="0" contextvr="1" lockedwheel="0" speedwheel="1"/>
-  </panorama>
-  <panorama id="node18">
-    <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="3799" overlap="1" levelbiashidpi="1.000" height="3799">
-      <level predecode="0" preload="0" width="3799" height="3799"/>
-      <level predecode="0" preload="0" width="1899" height="1899"/>
-      <level predecode="0" preload="0" width="949" height="949"/>
-      <level predecode="1" preload="1" width="474" height="474"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="0" fovmode="0">
-      <start projection="4" pan="-21.33" tilt="0.24" fov="74.9"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
-    </view>
-    <userdata heading="0" author="" latitude="" title="Central Spine (High School)" customnodeid="" tags="Edited" copyright="" comment="" datetime="22/03/2022 8:43 AM" source="" info="" description="" nodeid="node18" longitude=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" width="180" border="1" enabled="1" height="20" background="1" bordercolor="0x000000"/>
-      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-265.17" skinid="Hotspot 1" tilt="-17.19" url="{node10}" title="" id="Point01" target="" description=""/>
-      <hotspot pan="-71.64" skinid="ht_info" tilt="0.37" url="" title="COLAs" id="Point02" target="" description="Zodiac constellations can be found in the north and south of the school's covered outdoor learning areas and are a great feature for curious minds.&#xa;&#xa;The 3 stars on the floor in one area are a Djulpan dreaming story from the Yolnu people, representing 3 brothers across the centre of the canoe, and Orion Nebula is the fish pulling in its line in the water. &#xa;&#xa;Another area represents the constellation of Leo - latin for lion."/>
-      <hotspot pan="-115.01" skinid="ht_image" tilt="13.11" url="images/ifb220322_7969_small.jpg" title="" id="Point03" target="" description=""/>
-    </hotspots>
-    <media/>
-    <transition type="crossdissolve" zoomout="2" blendcolor="0x000000" zoomoutpause="0" blendtime="1" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" enabled="1"/>
-    <autorotate startloaded="0" noderandom="1" delay="5.00" nodedelay="0.00" useanimation="0" speed="0.030" nodefilter="" returntohorizon="0.100" enabled="1"/>
-    <flyintransition speed="2.00" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
-    <control hideabout="0" invertwheel="0" lockedmouse="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0" contextprojections="0" rubberband="0" contextvr="1" lockedwheel="0" speedwheel="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" hideabout="0"/>
   </panorama>
   <panorama id="node9">
-    <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="3841" overlap="1" levelbiashidpi="1.000" height="3841">
-      <level predecode="0" preload="0" width="3841" height="3841"/>
-      <level predecode="0" preload="0" width="1920" height="1920"/>
-      <level predecode="0" preload="0" width="960" height="960"/>
-      <level predecode="1" preload="1" width="480" height="480"/>
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="3841" levelingroll="0" height="3841" overlap="1" levelingpitch="0">
+      <level width="3841" preload="0" height="3841" predecode="0"/>
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" pan="15.42" tilt="-0.65" fov="70"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+      <start pan="15.42" tilt="-0.65" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" fov="120"/>
     </view>
-    <userdata heading="0" author="" latitude="" title="Primary Flexible Learning Hub" customnodeid="" tags="Edited" copyright="" comment="" datetime="22/03/2022 10:03 AM" source="" info="" description="" nodeid="node9" longitude=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" width="180" border="1" enabled="1" height="20" background="1" bordercolor="0x000000"/>
-      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-331.73" skinid="ht_video_youtube" tilt="-4.93" url="oSPMb7G8nz8" title="Tour of a flexible learning hub" id="Point01" target="" description=""/>
-      <hotspot pan="-226.26" skinid="ht_info" tilt="-8.35" url="" title=" Audio Visual technologies" id="Point02" target="" description="Our rooms support future-focused learning by embedding technology into both teaching and learning practice and prepare our younger students for high school. &#xa;&#xa;Students can participate in interactive educational games, collaborate in projects with online communication and much more, resulting in engaging lessons and study."/>
-      <hotspot pan="-267.27" skinid="ht_info" tilt="-7.96" url="" title="Flexible Learning Hubs" id="Point03" target="" description="As learning is changing, so too are the spaces that support learning activities. When spaces, furniture and technology can support greater collaboration, a wider range of teaching and learning strategies are used. This means teachers can cover a broader scope of learning needs, supporting even more students to achieve learning outcomes. Watch the video to see how Alexandria Park Community School use their flexible learning spaces."/>
+    <userdata latitude="" customnodeid="" description="" nodeid="node9" comment="" author="" copyright="" longitude="" source="" title="Primary Flexible Learning Hub" info="" heading="0" datetime="22/03/2022 10:03 AM" tags="Edited"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" width="180" backgroundalpha="1" textalpha="1" background="1" height="20" textcolor="0x000000" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-331.73" skinid="ht_video_youtube" description="" id="Point01" url="oSPMb7G8nz8" tilt="-4.93" title="Tour of a flexible learning hub" target=""/>
+      <hotspot pan="-226.26" skinid="ht_info" description="Our rooms support future-focused learning by embedding technology into both teaching and learning practice and prepare our younger students for high school. &#xa;&#xa;Students can participate in interactive educational games, collaborate in projects with online communication and much more, resulting in engaging lessons and study." id="Point02" url="" tilt="-8.35" title=" Audio Visual technologies" target=""/>
+      <hotspot pan="-267.27" skinid="ht_info" description="As learning is changing, so too are the spaces that support learning activities. When spaces, furniture and technology can support greater collaboration, a wider range of teaching and learning strategies are used. This means teachers can cover a broader scope of learning needs, supporting even more students to achieve learning outcomes. Watch the video to see how Alexandria Park Community School use their flexible learning spaces." id="Point03" url="" tilt="-7.96" title="Flexible Learning Hubs" target=""/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" zoomout="2" blendcolor="0x000000" zoomoutpause="0" blendtime="1" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" enabled="1"/>
-    <autorotate startloaded="0" noderandom="1" delay="5.00" nodedelay="0.00" useanimation="0" speed="0.030" nodefilter="" returntohorizon="0.100" enabled="1"/>
+    <transition softedge="0" zoomoutpause="0" blendcolor="0x000000" blendtime="1" zoomfov="20" zoomspeed="2" enabled="1" type="crossdissolve" zoomafteroutfov="20" zoomin="2" zoomout="2" zoomafterinfov="90"/>
     <flyintransition speed="2.00" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
-    <control hideabout="0" invertwheel="0" lockedmouse="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0" contextprojections="0" rubberband="0" contextvr="1" lockedwheel="0" speedwheel="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" hideabout="0"/>
   </panorama>
   <panorama id="node8">
-    <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="3802" overlap="1" levelbiashidpi="1.000" height="3802">
-      <level predecode="0" preload="0" width="3802" height="3802"/>
-      <level predecode="0" preload="0" width="1901" height="1901"/>
-      <level predecode="0" preload="0" width="950" height="950"/>
-      <level predecode="1" preload="1" width="475" height="475"/>
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="3802" levelingroll="0" height="3802" overlap="1" levelingpitch="0">
+      <level width="3802" preload="0" height="3802" predecode="0"/>
+      <level width="1901" preload="0" height="1901" predecode="0"/>
+      <level width="950" preload="0" height="950" predecode="0"/>
+      <level width="475" preload="1" height="475" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" pan="10.24" tilt="10.19" fov="70"/>
-      <flyin projection="9" pan="24.57" tilt="3.82" fov="41.13"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+      <start pan="10.24" tilt="10.19" projection="4" fov="70"/>
+      <flyin pan="24.57" tilt="3.82" projection="9" fov="41.13"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" fov="120"/>
     </view>
-    <userdata heading="0" author="" latitude="" title="Primary Outdoor Play Areas" customnodeid="" tags="Edits" copyright="" comment="" datetime="22/10/2017 10:38 PM" source="" info="" description="" nodeid="node8" longitude=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" width="180" border="1" enabled="1" height="20" background="1" bordercolor="0x000000"/>
-      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-312.61" skinid="ht_image" tilt="1.17" url="images/ifb220322_7715_small.jpg" title="" id="Point01" target="" description=""/>
-      <hotspot pan="-53.82" skinid="ht_info" tilt="-1.71" url="" title="Green spaces" id="Point02" target="" description="Our outdoor playgrounds and sporting areas are built to encourage lifelong health and lifelong learning. Our green spaces are ideal to inspire and relax thriving minds."/>
+    <userdata latitude="" customnodeid="" description="" nodeid="node8" comment="" author="" copyright="" longitude="" source="" title="Primary Outdoor Play Areas" info="" heading="0" datetime="22/10/2017 10:38 PM" tags="Edits"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" width="180" backgroundalpha="1" textalpha="1" background="1" height="20" textcolor="0x000000" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-312.61" skinid="ht_image" description="" id="Point01" url="images/ifb220322_7715_small.jpg" tilt="1.17" title="" target=""/>
+      <hotspot pan="-320.76" skinid="ht_info" description="Our outdoor playgrounds and sporting areas are built to encourage lifelong health and lifelong learning. Our green spaces are ideal to inspire and relax thriving minds." id="Point02" url="" tilt="-0.9" title="Green spaces" target=""/>
+      <hotspot pan="-70.33" skinid="Hotspot 1" description="" id="Point03" url="{node18}" tilt="7.97" title="" target=""/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" zoomout="2" blendcolor="0x000000" zoomoutpause="0" blendtime="1" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" enabled="1"/>
-    <autorotate startloaded="0" noderandom="1" delay="5.00" nodedelay="0.00" useanimation="0" speed="0.030" nodefilter="" returntohorizon="0.100" enabled="1"/>
+    <transition softedge="0" zoomoutpause="0" blendcolor="0x000000" blendtime="1" zoomfov="20" zoomspeed="2" enabled="1" type="crossdissolve" zoomafteroutfov="20" zoomin="2" zoomout="2" zoomafterinfov="90"/>
     <flyintransition speed="2.00" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
-    <control hideabout="0" invertwheel="0" lockedmouse="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0" contextprojections="0" rubberband="0" contextvr="1" lockedwheel="0" speedwheel="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" hideabout="0"/>
   </panorama>
-  <panorama id="node11">
-    <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="3845" overlap="1" levelbiashidpi="1.000" height="3845">
-      <level predecode="0" preload="0" width="3845" height="3845"/>
-      <level predecode="0" preload="0" width="1922" height="1922"/>
-      <level predecode="0" preload="0" width="961" height="961"/>
-      <level predecode="1" preload="1" width="480" height="480"/>
+  <panorama id="node18">
+    <input leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="3799" levelingroll="0" height="3799" overlap="1" levelingpitch="0">
+      <level width="3799" preload="0" height="3799" predecode="0"/>
+      <level width="1899" preload="0" height="1899" predecode="0"/>
+      <level width="949" preload="0" height="949" predecode="0"/>
+      <level width="474" preload="1" height="474" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" pan="5.42" tilt="-2.33" fov="70"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+      <start pan="-21.33" tilt="0.24" projection="4" fov="74.9"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" fov="120"/>
     </view>
-    <userdata heading="0" author="" latitude="" title="High School Library" customnodeid="" tags="Edited" copyright="" comment="" datetime="22/03/2022 9:28 AM" source="" info="" description="" nodeid="node11" longitude=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" width="180" border="1" enabled="1" height="20" background="1" bordercolor="0x000000"/>
-      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-244.67" skinid="ht_image" tilt="-6.57" url="images/ifb220315_6212_small.jpg" title="" id="Point01" target="" description=""/>
-      <hotspot pan="-89.15" skinid="ht_info" tilt="-10.28" url="" title="Study Pods and break out spaces" id="Point02" target="" description="Students have supportive, creative learning environments that are flexible and able to meet their needs.&#xa;&#xa;Audio-visual and information communication technologies support students to become 21st century learners who will be prepared for careers requiring new types of knowledge across many industries."/>
+    <userdata latitude="" customnodeid="" description="" nodeid="node18" comment="" author="" copyright="" longitude="" source="" title="Central Spine - High School" info="" heading="0" datetime="22/03/2022 8:43 AM" tags="Edited"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" width="180" backgroundalpha="1" textalpha="1" background="1" height="20" textcolor="0x000000" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-104.96" skinid="Hotspot 1" description="" id="Point01" url="{node15}" tilt="37.91" title="" target=""/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" zoomout="2" blendcolor="0x000000" zoomoutpause="0" blendtime="1" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" enabled="1"/>
-    <autorotate startloaded="0" noderandom="1" delay="5.00" nodedelay="0.00" useanimation="0" speed="0.030" nodefilter="" returntohorizon="0.100" enabled="1"/>
+    <transition softedge="0" zoomoutpause="0" blendcolor="0x000000" blendtime="1" zoomfov="20" zoomspeed="2" enabled="1" type="crossdissolve" zoomafteroutfov="20" zoomin="2" zoomout="2" zoomafterinfov="90"/>
     <flyintransition speed="2.00" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
-    <control hideabout="0" invertwheel="0" lockedmouse="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0" contextprojections="0" rubberband="0" contextvr="1" lockedwheel="0" speedwheel="1"/>
-  </panorama>
-  <panorama id="node16">
-    <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="3858" overlap="1" levelbiashidpi="1.000" height="3858">
-      <level predecode="0" preload="0" width="3858" height="3858"/>
-      <level predecode="0" preload="0" width="1929" height="1929"/>
-      <level predecode="0" preload="0" width="964" height="964"/>
-      <level predecode="1" preload="1" width="482" height="482"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="0" fovmode="0">
-      <start projection="4" pan="-7.21" tilt="-5.7" fov="70"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
-    </view>
-    <userdata heading="0" author="" latitude="" title="High School VET Kitchens" customnodeid="" tags="Edited" copyright="" comment="" datetime="22/03/2022 11:25 AM" source="" info="" description="" nodeid="node16" longitude=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" width="180" border="1" enabled="1" height="20" background="1" bordercolor="0x000000"/>
-      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-41.93" skinid="ht_video_youtube" tilt="-10.95" url="kIeg6DKwtwU" title="VET Kitchens at Marsden High School" id="Point01" target="" description=""/>
-      <hotspot pan="-274.54" skinid="ht_image" tilt="-3.64" url="images/ifb220315_6142_small.jpg" title="" id="Point02" target="" description=""/>
-    </hotspots>
-    <media/>
-    <transition type="crossdissolve" zoomout="2" blendcolor="0x000000" zoomoutpause="0" blendtime="1" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" enabled="1"/>
-    <autorotate startloaded="0" noderandom="1" delay="5.00" nodedelay="0.00" useanimation="0" speed="0.030" nodefilter="" returntohorizon="0.100" enabled="1"/>
-    <flyintransition speed="2.00" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
-    <control hideabout="0" invertwheel="0" lockedmouse="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0" contextprojections="0" rubberband="0" contextvr="1" lockedwheel="0" speedwheel="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" hideabout="0"/>
   </panorama>
   <panorama id="node15">
-    <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="3863" overlap="1" levelbiashidpi="1.000" height="3863">
-      <level predecode="0" preload="0" width="3863" height="3863"/>
-      <level predecode="0" preload="0" width="1931" height="1931"/>
-      <level predecode="0" preload="0" width="965" height="965"/>
-      <level predecode="1" preload="1" width="482" height="482"/>
+    <input leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="3863" levelingroll="0" height="3863" overlap="1" levelingpitch="0">
+      <level width="3863" preload="0" height="3863" predecode="0"/>
+      <level width="1931" preload="0" height="1931" predecode="0"/>
+      <level width="965" preload="0" height="965" predecode="0"/>
+      <level width="482" preload="1" height="482" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" pan="-51.59" tilt="-4.53" fov="70"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+      <start pan="-51.59" tilt="-4.53" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" fov="120"/>
     </view>
-    <userdata heading="0" author="" latitude="" title="High School Science " customnodeid="" tags="Edited" copyright="" comment="" datetime="22/03/2022 11:11 AM" source="" info="" description="" nodeid="node15" longitude=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" width="180" border="1" enabled="1" height="20" background="1" bordercolor="0x000000"/>
-      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-87.58" skinid="ht_video_youtube" tilt="-14.17" url="HqV-UpRcFTE" title="Science Labs at Marsden High School" id="Point01" target="" description=""/>
+    <userdata latitude="" customnodeid="" description="" nodeid="node15" comment="" author="" copyright="" longitude="" source="" title="High School Science " info="" heading="0" datetime="22/03/2022 11:11 AM" tags="Edited"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" width="180" backgroundalpha="1" textalpha="1" background="1" height="20" textcolor="0x000000" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-87.58" skinid="ht_video_youtube" description="" id="Point01" url="HqV-UpRcFTE" tilt="-14.17" title="Science Labs at Marsden High School" target=""/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" zoomout="2" blendcolor="0x000000" zoomoutpause="0" blendtime="1" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" enabled="1"/>
-    <autorotate startloaded="0" noderandom="1" delay="5.00" nodedelay="0.00" useanimation="0" speed="0.030" nodefilter="" returntohorizon="0.100" enabled="1"/>
+    <transition softedge="0" zoomoutpause="0" blendcolor="0x000000" blendtime="1" zoomfov="20" zoomspeed="2" enabled="1" type="crossdissolve" zoomafteroutfov="20" zoomin="2" zoomout="2" zoomafterinfov="90"/>
     <flyintransition speed="2.00" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
-    <control hideabout="0" invertwheel="0" lockedmouse="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0" contextprojections="0" rubberband="0" contextvr="1" lockedwheel="0" speedwheel="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" hideabout="0"/>
   </panorama>
-  <panorama id="node14">
-    <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="3836" overlap="1" levelbiashidpi="1.000" height="3836">
-      <level predecode="0" preload="0" width="3836" height="3836"/>
-      <level predecode="0" preload="0" width="1918" height="1918"/>
-      <level predecode="0" preload="0" width="959" height="959"/>
-      <level predecode="1" preload="1" width="479" height="479"/>
+  <panorama id="node16">
+    <input leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="3858" levelingroll="0" height="3858" overlap="1" levelingpitch="0">
+      <level width="3858" preload="0" height="3858" predecode="0"/>
+      <level width="1929" preload="0" height="1929" predecode="0"/>
+      <level width="964" preload="0" height="964" predecode="0"/>
+      <level width="482" preload="1" height="482" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" pan="-64.51" tilt="2.2" fov="70"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+      <start pan="-7.21" tilt="-5.7" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" fov="120"/>
     </view>
-    <userdata heading="0" author="" latitude="" title="High School Performing Arts " customnodeid="" tags="Edited" copyright="" comment="" datetime="22/03/2022 10:46 AM" source="" info="" description="" nodeid="node14" longitude=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" width="180" border="1" enabled="1" height="20" background="1" bordercolor="0x000000"/>
-      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-107.15" skinid="ht_video_youtube" tilt="-1.78" url="6VBk5bmvVEY" title="Performing Arts spaces at Marsden High School" id="Point01" target="" description=""/>
-      <hotspot pan="-327.71" skinid="ht_image" tilt="-2.85" url="images/ifb220210_7898_small.jpg" title="" id="Point02" target="" description=""/>
+    <userdata latitude="" customnodeid="" description="" nodeid="node16" comment="" author="" copyright="" longitude="" source="" title="High School VET Kitchens" info="" heading="0" datetime="22/03/2022 11:25 AM" tags="Edited"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" width="180" backgroundalpha="1" textalpha="1" background="1" height="20" textcolor="0x000000" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-41.93" skinid="ht_video_youtube" description="" id="Point01" url="kIeg6DKwtwU" tilt="-10.95" title="VET Kitchens at Marsden High School" target=""/>
+      <hotspot pan="-274.54" skinid="ht_image" description="" id="Point02" url="images/ifb220315_6142_small.jpg" tilt="-3.64" title="" target=""/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" zoomout="2" blendcolor="0x000000" zoomoutpause="0" blendtime="1" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" enabled="1"/>
-    <autorotate startloaded="0" noderandom="1" delay="5.00" nodedelay="0.00" useanimation="0" speed="0.030" nodefilter="" returntohorizon="0.100" enabled="1"/>
+    <transition softedge="0" zoomoutpause="0" blendcolor="0x000000" blendtime="1" zoomfov="20" zoomspeed="2" enabled="1" type="crossdissolve" zoomafteroutfov="20" zoomin="2" zoomout="2" zoomafterinfov="90"/>
     <flyintransition speed="2.00" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
-    <control hideabout="0" invertwheel="0" lockedmouse="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0" contextprojections="0" rubberband="0" contextvr="1" lockedwheel="0" speedwheel="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" hideabout="0"/>
   </panorama>
   <panorama id="node12">
-    <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="3809" overlap="1" levelbiashidpi="1.000" height="3809">
-      <level predecode="0" preload="0" width="3809" height="3809"/>
-      <level predecode="0" preload="0" width="1904" height="1904"/>
-      <level predecode="0" preload="0" width="952" height="952"/>
-      <level predecode="1" preload="1" width="476" height="476"/>
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="3809" levelingroll="0" height="3809" overlap="1" levelingpitch="0">
+      <level width="3809" preload="0" height="3809" predecode="0"/>
+      <level width="1904" preload="0" height="1904" predecode="0"/>
+      <level width="952" preload="0" height="952" predecode="0"/>
+      <level width="476" preload="1" height="476" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" pan="176.52" tilt="3.69" fov="70"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
+      <start pan="176.52" tilt="3.69" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" fov="120"/>
     </view>
-    <userdata heading="0" author="" latitude="" title="High School Gymnasium" customnodeid="" tags="Edited" copyright="" comment="" datetime="22/03/2022 9:45 AM" source="" info="" description="" nodeid="node12" longitude=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" width="180" border="1" enabled="1" height="20" background="1" bordercolor="0x000000"/>
-      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-220.99" skinid="ht_video_youtube" tilt="-0.88" url="xz_G0COeZZ0" title="Sports Facilities at Marsden High School" id="Point01" target="" description=""/>
-      <hotspot pan="-318.36" skinid="ht_image" tilt="-0.55" url="images/ifb220315_6237_small.jpg" title="" id="Point02" target="" description=""/>
+    <userdata latitude="" customnodeid="" description="" nodeid="node12" comment="" author="" copyright="" longitude="" source="" title="High School Gymnasium" info="" heading="0" datetime="22/03/2022 9:45 AM" tags="Edited"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" width="180" backgroundalpha="1" textalpha="1" background="1" height="20" textcolor="0x000000" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-220.99" skinid="ht_video_youtube" description="" id="Point01" url="xz_G0COeZZ0" tilt="-0.88" title="Sports Facilities at Marsden High School" target=""/>
+      <hotspot pan="-318.36" skinid="ht_image" description="" id="Point02" url="images/ifb220315_6237_small.jpg" tilt="-0.55" title="" target=""/>
     </hotspots>
     <media/>
-    <transition type="crossdissolve" zoomout="2" blendcolor="0x000000" zoomoutpause="0" blendtime="1" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" zoomin="2" zoomfov="20" zoomspeed="2" enabled="1"/>
-    <autorotate startloaded="0" noderandom="1" delay="5.00" nodedelay="0.00" useanimation="0" speed="0.030" nodefilter="" returntohorizon="0.100" enabled="1"/>
+    <transition softedge="0" zoomoutpause="0" blendcolor="0x000000" blendtime="1" zoomfov="20" zoomspeed="2" enabled="1" type="crossdissolve" zoomafteroutfov="20" zoomin="2" zoomout="2" zoomafterinfov="90"/>
     <flyintransition speed="2.00" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
-    <control hideabout="0" invertwheel="0" lockedmouse="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0" contextprojections="0" rubberband="0" contextvr="1" lockedwheel="0" speedwheel="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="3845" levelingroll="0" height="3845" overlap="1" levelingpitch="0">
+      <level width="3845" preload="0" height="3845" predecode="0"/>
+      <level width="1922" preload="0" height="1922" predecode="0"/>
+      <level width="961" preload="0" height="961" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="5.42" tilt="-2.33" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata latitude="" customnodeid="" description="" nodeid="node11" comment="" author="" copyright="" longitude="" source="" title="High School Library" info="" heading="0" datetime="22/03/2022 9:28 AM" tags="Edited"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" width="180" backgroundalpha="1" textalpha="1" background="1" height="20" textcolor="0x000000" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-269.35" skinid="ht_image" description="" id="Point01" url="images/ifb220315_6212_small.jpg" tilt="-3.92" title="" target=""/>
+      <hotspot pan="-89.15" skinid="ht_info" description="Students have supportive, creative learning environments that are flexible and able to meet their needs.&#xa;&#xa;Audio-visual and information communication technologies support students to become 21st century learners who will be prepared for careers requiring new types of knowledge across many industries." id="Point02" url="" tilt="-10.28" title="Study Pods and break out spaces" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomoutpause="0" blendcolor="0x000000" blendtime="1" zoomfov="20" zoomspeed="2" enabled="1" type="crossdissolve" zoomafteroutfov="20" zoomin="2" zoomout="2" zoomafterinfov="90"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="3836" levelingroll="0" height="3836" overlap="1" levelingpitch="0">
+      <level width="3836" preload="0" height="3836" predecode="0"/>
+      <level width="1918" preload="0" height="1918" predecode="0"/>
+      <level width="959" preload="0" height="959" predecode="0"/>
+      <level width="479" preload="1" height="479" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-64.51" tilt="2.2" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata latitude="" customnodeid="" description="" nodeid="node14" comment="" author="" copyright="" longitude="" source="" title="High School Performing Arts " info="" heading="0" datetime="22/03/2022 10:46 AM" tags="Edited"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" width="180" backgroundalpha="1" textalpha="1" background="1" height="20" textcolor="0x000000" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-107.15" skinid="ht_video_youtube" description="" id="Point01" url="6VBk5bmvVEY" tilt="-1.78" title="Performing Arts spaces at Marsden High School" target=""/>
+      <hotspot pan="-327.71" skinid="ht_image" description="" id="Point02" url="images/ifb220210_7898_small.jpg" tilt="-2.85" title="" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomoutpause="0" blendcolor="0x000000" blendtime="1" zoomfov="20" zoomspeed="2" enabled="1" type="crossdissolve" zoomafteroutfov="20" zoomin="2" zoomout="2" zoomafterinfov="90"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" speedwheel="1" contextfullscreen="1" contextvr="1" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" hideabout="0"/>
   </panorama>
   <masternode>
-    <userdata heading="0" author="" latitude="" title="" customnodeid="" tags="" copyright="" comment="" datetime="" source="" info="" description="" nodeid="master" longitude=""/>
+    <userdata latitude="" customnodeid="" description="" nodeid="master" comment="" author="" copyright="" longitude="" source="" title="" info="" heading="0" datetime="" tags=""/>
   </masternode>
 </tour>
